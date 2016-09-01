@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Customer360:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Customer360_jar</output-path>
+    <root id="archive" name="Customer360.jar">
+      <element id="module-output" name="Customer360" />
+    </root>
+  </artifact>
+</component>
